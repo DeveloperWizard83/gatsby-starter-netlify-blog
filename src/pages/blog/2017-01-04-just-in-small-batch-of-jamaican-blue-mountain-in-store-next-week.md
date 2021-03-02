@@ -1,11 +1,14 @@
 ---
-templateKey: 'blog-post'
-title: 'Just in: small batch of Jamaican Blue Mountain in store next week'
+templateKey: blog-post
+title: 5 reasons why coding is hard to learn
 date: 2017-01-04T15:04:10.000Z
+description: Someone has said that coding but learning to code is hard. I think
+  it is the same in all learning. Learning to drive a car is hard at the
+  start(especially if you use a car with a manual gearbox) but when you learn it
+  driving becomes so easy can multitask in the car while although you shouldn't.
+  I have listed 5 reasons why learning to code is hard.
 featuredpost: true
-description: >-
-  We’re proud to announce that we’ll be offering a small batch of Jamaica Blue
-  Mountain coffee beans in our store next week.
+featuredimage: http://gph.is/2n7aeSn
 tags:
   - jamaica
   - green beans
