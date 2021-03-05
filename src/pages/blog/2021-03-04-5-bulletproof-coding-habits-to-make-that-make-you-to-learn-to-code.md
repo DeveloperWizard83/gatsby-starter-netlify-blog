@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: "5 Bulletproof Coding Habits to make that make you to learn to code "
+title: 5 Bulletproof Coding Habits to make that are forcing me to learn to code.
 date: 2021-03-04T08:54:30.487Z
 description: >-
   You have to learn what the code means that's why coding tutorials are useful.
