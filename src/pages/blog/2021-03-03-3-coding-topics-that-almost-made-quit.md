@@ -10,4 +10,4 @@ featuredimage: https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.mp4
 ---
 1. Functions
 
-I just could my head around the functions. How do they work what is their purpose.
+I just could my head around the functions. How do they work what is their purpose. This led me to so big frustration that in my mind I started to have thoughts that I will never learn to code maybe coding isn't for me.
