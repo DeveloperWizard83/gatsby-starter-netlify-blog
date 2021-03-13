@@ -18,6 +18,8 @@ featuredimage: https://media.giphy.com/media/xTiTnslZ0E5sqMbEac/giphy.gif
 ---
 So number 1 is watching coding videos from 10min to 1 hour per day. Watching videos helps you to get familiar with the syntax of coding. At the beginning the syntax looks terrifiying,but when you look at it long enough. It starts to make sense.
 
-
-
 Number 2 is Coding challenges I like to use Edabit the challenges are not too difficult and the platform is really easy to use. This is the best place to build your logical thinking in coding.
+
+
+
+3. Kuuntele koodaus podcasteja. Kun kuulet kaikkia outoja sanoja ja miten ihmiset ajattelevat koodausta aivosi joutuvat tekemään paljon töitä ja pian alat käsittämään koko koodausuniversiumia paremmin.
