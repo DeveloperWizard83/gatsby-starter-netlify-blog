@@ -20,6 +20,6 @@ So number 1 is watching coding videos from 10min to 1 hour per day. Watching vid
 
 Number 2 is Coding challenges I like to use Edabit the challenges are not too difficult and the platform is really easy to use. This is the best place to build your logical thinking in coding.
 
+3. Listen to coding podcasts. When I am hearing all the new strange words from technology field and how people think about software or web development my brain have to do a lot of work and all the time I am feeling that I understand the whole coding univers better
 
-
-3. Kuuntele koodaus podcasteja. Kun kuulet kaikkia outoja sanoja ja miten ihmiset ajattelevat koodausta aivosi joutuvat tekemään paljon töitä ja pian alat käsittämään koko koodausuniversiumia paremmin.
+4. Coding challenges. I put this again here because if there is a day that I don't want to watch coding videos or listen to podcasts I can always do coding challenges, because after I do those I always feel that I am doing progress.
